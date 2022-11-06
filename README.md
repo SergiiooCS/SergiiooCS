@@ -4,7 +4,7 @@ Soy un desarrollador junior de la Comunidad de Madrid. Apasionado en las nuevas 
 
 
 <div id="badges">
- <a href="https://www.linkedin.com/in/sergio-camino-saiz/">
+ <a href="https://www.linkedin.com/in/sergio-camino-saiz/"  target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <div>
@@ -14,9 +14,9 @@ Soy un desarrollador junior de la Comunidad de Madrid. Apasionado en las nuevas 
    <div>
   :woman_technologist: About Me :
     <br>
-  :seedling: Estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas.
+  Estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas.
     <br>
-  :zap: Trato de mejorar cada día mis habilidades y aprender cosas nuevas cada día.
+  Trato de mejorar cada día mis habilidades y aprender cosas nuevas cada día.
    </div>
    <br>
    :hammer_and_wrench: Languages and Tools :
@@ -38,6 +38,8 @@ Soy un desarrollador junior de la Comunidad de Madrid. Apasionado en las nuevas 
    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
    <br>
 :zap: My Stats :
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SergiiooCS&theme=dark&background=000000)](https://git.io/streak-stats)
  
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiiooCS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
