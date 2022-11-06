@@ -40,6 +40,8 @@ Soy un desarrollador junior de la Comunidad de Madrid. Apasionado en las nuevas 
    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
    
    <br>
-   :zap: My Stats :
+
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiiooCS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+   
+   
+   
