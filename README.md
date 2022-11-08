@@ -34,14 +34,16 @@ Soy un desarrollador junior de la Comunidad de Madrid. Apasionado en las nuevas 
    <br>
    
    
-      🚀 Frameworks :
+   :hammer_and_wrench: 🚀 Frameworks :
    <br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
    
    <br>
-
    
+   
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergiiooCS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
    
    
    
