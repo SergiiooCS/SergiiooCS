@@ -34,7 +34,7 @@ Soy un desarrollador junior de la Comunidad de Madrid. Apasionado en las nuevas 
    <br>
    
    
-   :hammer_and_wrench: 🚀 Frameworks :
+   :hammer_and_wrench: Frameworks :
    <br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
